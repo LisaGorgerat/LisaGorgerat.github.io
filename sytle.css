@@ -1,0 +1,18 @@
+main{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,228,200,1) 100%); 
+}
+
+h1 {
+    color: darkred;
+    text-shadow: 2px 2px 2px rgb(88, 21, 21);
+}
+
+#entete{
+    height: 100px;
+    background-color: peachpuff;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
